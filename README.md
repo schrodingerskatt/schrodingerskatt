@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ananya Arya</h1>
+<h1 align="center">Hi 👋, I'm Ananya aka schrodingerkat.</h1>
+<br>
 <h3 align="center">A passionate Software Engineer who codes in python. currently, I am learning Java, Spring Boot and React.js</h3>
-<img align="right" alt = "Coding girl" width = "500" src ="https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif">
-
+<img align="right" alt = "Coding girl" height = "500" width = "400" src ="https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif">
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schrodingerskatt&label=Profile%20views&color=0e75b6&style=flat" alt="schrodingerskatt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=schrodingerskatt" alt="schrodingerskatt" /></a> </p>
