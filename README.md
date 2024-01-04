@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ananyatheschrodingerkat](https://medium.com/@ananyatheschrodingerkat)
 
-- 💬 Ask me about : **Python, R, Algorithms, Mathematics, Data Structures Probability and Statistics.**
+- 💬 Ask me about : **Python, R, Algorithms, Mathematics, Data Structures, Probability and Statistics.**
 
 - 📫 How to reach me : **arya222aya@gmail.com**
 
