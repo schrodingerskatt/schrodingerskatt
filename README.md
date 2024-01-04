@@ -15,11 +15,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ananyatheschrodingerkat](https://medium.com/@ananyatheschrodingerkat)
 
-- 💬 Ask me about : **Python, R, Algorithms, Mathematics, Data Structures and Leetcode**
+- 💬 Ask me about : **Python, R, Algorithms, Mathematics, Data Structures Probability and Statistics.**
 
 - 📫 How to reach me : **arya222aya@gmail.com**
 
-- ⚡ Fun fact : **I love listening to music, watching standup comedy and drinking tea.**
+- ⚡ Fun fact : **I love listening to music, watching standup comedy, drinking tea and playing board games.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
