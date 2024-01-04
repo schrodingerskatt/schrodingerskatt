@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, My name is Ananya aka schrodingerkat.</h1>
+<h1 align="center">Hi 👋, I'm Ananya aka schrodingerkat.</h1>
 <br>
-<h3 align="center">A passionate Software Engineer who codes in python. currently, I am learning Java, Spring Boot and React.js</h3>
+<h5 align="center">A passionate Software Engineer who codes in python. Currently, I am expanding my skill set by delving into Java, Spring Boot, and React.js. My enthusiasm extends to solving challenging problems related to data structures and algorithms on diverse coding platforms. Additionally, I share my solutions along with detailed explanations on my GitHub profile. Follow me to get interesting updates !</h3>
 <img align="right" alt = "Coding girl" width = "400" src ="https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schrodingerskatt&label=Profile%20views&color=0e75b6&style=flat" alt="schrodingerskatt" /> </p>
@@ -13,11 +13,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ananyatheschrodingerkat](https://medium.com/@ananyatheschrodingerkat)
 
-- 💬 Ask me about **Python, Algorithms, Mathematics and Data Structures**
+- 💬 Ask me about : **Python, R, Algorithms, Mathematics, Data Structures and Leetcode**
 
-- 📫 How to reach me **arya222aya@gmail.com**
+- 📫 How to reach me : **arya222aya@gmail.com**
 
-- ⚡ Fun fact **I love listening to music and watching standup comedy.**
+- ⚡ Fun fact : **I love listening to music, watching standup comedy and drinking tea.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
