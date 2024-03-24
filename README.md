@@ -10,7 +10,6 @@
 
 - 📫 How to reach me : **arya222aya@gmail.com**
 
-- ⚡ Fun fact : **I love listening to music, watching standup comedy, drinking tea and playing board games.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
