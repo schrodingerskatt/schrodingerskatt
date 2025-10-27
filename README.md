@@ -4,7 +4,7 @@
 <br>
 
 
-- 🌱 I’m currently learning **Java and SpringBoot*
+- 🌱 I’m currently Working as a Software Engineer @Flipkart
 
 - 📝 I write articles on [https://medium.com/@ananyatheschrodingerkat](https://medium.com/@ananyatheschrodingerkat)
 
