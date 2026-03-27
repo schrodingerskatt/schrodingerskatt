@@ -4,7 +4,7 @@
 <br>
 
 
-- 🌱 I’m currently Working as a Software Engineer in an American MNC.
+- 🌱 I’m currently Working as a Senior Software Engineer in an American MNC.
 
 - 📝 I write articles on [https://medium.com/@ananyatheschrodingerkat](https://medium.com/@ananyatheschrodingerkat)
 
