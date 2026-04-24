@@ -17,10 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ananya-arya-link11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananya-arya-link11" height="30" width="40" /></a>
 <a href="https://medium.com/@ananyatheschrodingerkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ananyatheschrodingerkat" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ananya0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ananya0001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/schrodingerkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="schrodingerkat" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ppastry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ppastry" height="30" width="40" /></a>
 </p>
 
